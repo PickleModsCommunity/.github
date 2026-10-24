@@ -1,12 +1,11 @@
-## Hi there 👋
+# Pickle Mods Community 🥒
 
-<!--
+**Premium-quality FiveM resources. Open source. Free for everyone.**
 
-**Here are some ideas to get you started:**
+Following his retirement from FiveM development, **Pickle** decided to give back to the community by open-sourcing his premium resources and launching **Pickle Mods Community**.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Our mission is to bring together passionate developers to maintain existing scripts, improve them, and create entirely new premium-quality resources, all **completely free for the FiveM community**.
+
+**Built by the community, for the community.**
+
+💬 **[Join our Discord](https://discord.gg/m6Rhyn7tGv)** | 🚀 **[Explore our repositories](https://github.com/orgs/PickleModsCommunity/repositories)**
